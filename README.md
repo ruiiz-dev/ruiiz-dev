@@ -1,4 +1,4 @@
-👋 Hello, I'm @noobruiiz, I'm a systems engineer and senior front end
+👋 Hello, I'm @ruiiz.dev, I'm a systems engineer and senior front end
 
 👀 I am interested in continued growth
 
