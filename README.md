@@ -3,6 +3,6 @@
 🌱 I am currently learning to take care of my bonsais
 💞️ I am looking to collaborate on challenging projects
 📫 you can contact me through my social networks
-😄 Pronouns: noob.ruiiz
+😄 Pronouns: ruiiz.dev
 ⚡ Fun fact: I love one piece
 👨‍💻 https://estebanjimenezruiz.com/
