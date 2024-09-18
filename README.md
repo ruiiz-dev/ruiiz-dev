@@ -13,3 +13,5 @@
 ⚡ Fun fact: I love one piece
 
 👨‍💻 https://estebanjimenezruiz.com/
+
+![Screenshot_18](https://github.com/user-attachments/assets/7bb1b24c-e049-4f94-8378-5f6d2a3378d2)
