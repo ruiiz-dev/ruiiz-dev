@@ -1,17 +1,28 @@
-👋 Hello, I'm @ruiiz.dev, I'm a systems engineer and senior front end
+# Hola, soy Esteban 👋
 
-👀 I am interested in continued growth
+**Ingeniero de software en Medellín.** Construyo software, robots y videojuegos con IA
+y lo documento en público: demo, código y evidencia.
 
-🌱 I am currently learning to take care of my bonsais
+> Lo construyo, lo mido y te lo cuento.
 
-💞️ I am looking to collaborate on challenging projects
+---
 
-📫 you can contact me through my social networks
+## 🔧 Lo que estoy construyendo ahora
 
-😄 Pronouns: ruiiz.dev
+- 🤖 **Robot de juguete controlado por IA**: de juguete a robot que obedece a Claude. [Ver el proceso](TODO-enlace)
+- 🎮 **Mi videojuego**: avances del mundo y la jugabilidad. [Ver avances](TODO-enlace)
+- 📓 **Bitácora RUIIZ**: proyectos reales, con demo y código. [estebanjimenezruiz.com](https://estebanjimenezruiz.com)
 
-⚡ Fun fact: I love one piece
+## 📌 Proyectos destacados
 
-👨‍💻 https://estebanjimenezruiz.com/
+| Proyecto | Qué es |
+|---|---|
+| [ARScene](TODO-enlace-repo) | TODO: una línea de qué hace |
+| [brainJs](TODO-enlace-repo) | TODO: una línea de qué hace |
 
-![Screenshot_18](https://github.com/user-attachments/assets/7bb1b24c-e049-4f94-8378-5f6d2a3378d2)
+## 📬 Hablemos
+
+[Instagram @ruiiz.dev](https://www.instagram.com/ruiiz.dev/) ·
+[X @ruiiz_dev](https://x.com/ruiiz_dev) ·
+[LinkedIn](https://www.linkedin.com/in/estebanjimenezruiz/) ·
+[Sitio web](https://estebanjimenezruiz.com)
