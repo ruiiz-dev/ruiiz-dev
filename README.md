@@ -13,13 +13,6 @@ y lo documento en público: demo, código y evidencia.
 - 🎮 **Mi videojuego**: avances del mundo y la jugabilidad. [Ver avances](TODO-enlace)
 - 📓 **Bitácora RUIIZ**: proyectos reales, con demo y código. [estebanjimenezruiz.com](https://estebanjimenezruiz.com)
 
-## 📌 Proyectos destacados
-
-| Proyecto | Qué es |
-|---|---|
-| [ARScene](TODO-enlace-repo) | TODO: una línea de qué hace |
-| [brainJs](TODO-enlace-repo) | TODO: una línea de qué hace |
-
 ## 📬 Hablemos
 
 [Instagram @ruiiz.dev](https://www.instagram.com/ruiiz.dev/) ·
